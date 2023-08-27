@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "name": "sujimaprem",
+      "email": "sujima@gmail.com",
+      "password": "prem@123PREM@123",
+      "state": "MP",
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "premkuma",
+      "email": "premkumsssar@oceansoftwares.in",
+      "password": "sdfghjkl;",
+      "state": "TN",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "balakannan",
+      "email": "baal@gmail.cm",
+      "password": "lghjhj",
+      "state": "BR",
+      "status": true,
+      "id": 6
+    },
+    {
+      "name": "prem",
+      "email": "ffk@gmail.com",
+      "password": "332244",
+      "state": "GJ",
+      "status": true,
+      "id": 7
+    },
+    {
+      "name": "premkumar",
+      "email": "pre@gmail.com",
+      "password": "prem@123PREM@123",
+      "state": "TN",
+      "status": true,
+      "id": 8
+    }
+  ]
+}
